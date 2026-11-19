@@ -1,4 +1,4 @@
-# Client and Developer Team Project
+# Quikstall
 Have you ever gotten a new computer or reset an old one, only to realize you have to hunt down and reinstall all your favorite applications? That's where Qikstall comes in.
 
 Qikstall is a simple application directory designed to make setting up a new computer easier. It organizes useful applications by category and operating system, providing descriptions, icons, and direct download links in one convenient place.
